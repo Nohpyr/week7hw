@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/option16/Documents/CV2016/Week7/week7hw/main.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+math.h
+-
+
